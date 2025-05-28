@@ -1,4 +1,7 @@
 echo "Configure the repos for Innerloop dev"
+MY_TEST_REPO_ORG="chetna14manku-org"
+MY_TEST_REPO_GITLAB_ORG="rhtap-cchetna-org"
+MY_QUAY_USER="chetna14manku_org"
 
 TEST_REPO_ORG="${MY_TEST_REPO_ORG:-redhat-appstudio}"
 TEST_REPO_GITLAB_ORG="${MY_TEST_REPO_GITLAB_ORG:-redhat-appstudio}"
