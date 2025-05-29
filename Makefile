@@ -139,7 +139,7 @@ build-push-image: build-image push-image
 #
 # (Note that the real production quay org is redhat-appstudio.)
 #
-MY_QUAY_USER ?= $(USER)
+MY_QUAY_USER ?= chetna14manku_org
 RUNNER_IMAGE_ORG ?= $(MY_QUAY_USER)
 RUNNER_IMAGE_REPO ?= rhtap-task-runner
 
